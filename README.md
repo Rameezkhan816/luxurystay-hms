@@ -2,7 +2,14 @@
 
 A full-stack hotel management system built with the MERN stack. It covers room bookings, check-in/check-out, billing and invoices, housekeeping, maintenance, guest services, feedback and reports, with role-based access for five user types.
 
-**Live Demo:** _add your Vercel link here_
+**Live Demo:** https://luxurystay-hms-seven.vercel.app
+
+> The backend runs on a free server, so the first load may take up to a minute to wake up.
+
+**Demo Login (Manager):**
+- Email: `demo@luxurystay.com`
+- Password: `Demo@12345`
+ 
 **Tech Stack:** MongoDB · Express.js · React (Vite) · Node.js
 
 ## Features
